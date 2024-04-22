@@ -26,3 +26,17 @@
   - **Respuesta Exitosa:** Código 201 (Creado) con el teléfono creado para el usuario en formato JSON.
   - **Respuesta Fallida:** Código 422 (No procesable) con los errores de validación en formato JSON.
 - **Obtener Teléfonos por Usuario:**
+
+### Evaluación
+
+Durante la evaluación de esta prueba técnica se tendrán en cuenta los siguientes aspectos:
+
+- **Buenas prácticas de programación:** Se espera que el código siga las convenciones y principios de diseño de Laravel y PHP en general.
+
+- **Seguimiento de la estructura del proyecto:** Debe mantenerse la estructura típica de un proyecto Laravel, siguiendo las recomendaciones de organización de archivos y directorios.
+
+- **Validaciones correspondientes:** Se deben implementar todas las validaciones necesarias para garantizar la integridad de los datos y la seguridad del sistema, incluida la validación del formato del DNI.
+
+- **Manejo de errores:** Se espera un manejo adecuado de errores y mensajes de error claros y descriptivos.
+
+- **Simplicidad del código:** Se valorará la simplicidad y claridad del código, evitando complejidades innecesarias.
